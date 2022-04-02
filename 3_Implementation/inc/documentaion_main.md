@@ -1,1 +1,1 @@
-@mainpage Calculator Application by MOhansai @subpage Calendar_operations.h
+@mainpage Calendar Application by Mohansai @subpage Calendar_operations.h
